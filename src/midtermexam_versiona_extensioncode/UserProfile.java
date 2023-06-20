@@ -12,7 +12,7 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author Lovejot Singh gill 2023
- */ comment is added
+  comment is added*/
 public class UserProfile 
 {
     
